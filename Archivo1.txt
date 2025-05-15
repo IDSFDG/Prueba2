@@ -1,6 +1,36 @@
-Pruebas texto1
-Pruebas texto2
-Prueba3 Texto 3
-Prueba4 Texto 4
-Prueba Texto 5
-**************************
+[
+    {
+      title:"Ventas",
+      key:"first",
+      rows:20,
+      columns:20,
+      data:[
+        ["Pedro García López",	"",	"",	7749,	9816,	4355,	8279,	"",	""],
+        ["Jorge Sanchez Ruiz",	"",	6977,	8896,	4012,	3803,	5408,	3415,	3056],
+        ["María Garza González",980,	"",	39,	9445,	3917,	"",	18,	5239,	2516],
+        ["Clauida de la Cruz",	8734,	1819,	1838,	2330,	7921,	9219,	"",	3537],
+      ]
+  },
+  {
+      title:"Cobranza",
+      key:"second",
+       data:[
+        ["Jesús  López",	"",	"",	7749,	9816,	4355,	8279,	"",	""],
+        ["Luis Garza Rdz",	"",	6977,	8896,	4012,	3803,	5408,	3415,	3056],
+        ["María Sanchez González",980,	"",	39,	9445,	3917,	"",	18,	5239,	2516],
+        ["Rosa de la Peña",	8734,	1819,	1838,	2330,	7921,	9219,	"",	3537],
+      ]
+  },
+  {
+      title:"Cuentas x Cobrar",
+      key:"third",
+      rows:5,
+      columns:5,
+       data:[
+        ["Jesús Rdz López",	"",	"",	7749,	9816,	4355,	8279,	"",	""],
+        ["Juan Garza Rdz",	"",	6977,	8896,	4012,	3803,	5408,	3415,	3056],
+        ["Eloisa Sanchez Garza",980,	"",	39,	9445,	3917,	"",	18,	5239,	2516],
+        ["María de la Rosa",	8734,	1819,	1838,	2330,	7921,	9219,	"",	3537],
+      ]
+  },
+]
