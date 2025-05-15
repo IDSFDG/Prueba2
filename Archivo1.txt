@@ -1,5 +1,2 @@
-        ["Pedro García López",	"",	"",	7749,	9816,	4355,	8279,	"",	""],
-        ["Jorge Sanchez Ruiz",	"",	6977,	8896,	4012,	3803,	5408,	3415,	3056],
-        ["María Garza González",980,	"",	39,	9445,	3917,	"",	18,	5239,	2516],
-        ["Clauida de la Cruz",	8734,	1819,	1838,	2330,	7921,	9219,	"",	3537],
+["prueba2","EMB DE 26 SEM"]$["NC","IVU"]$["NC","EMB DE 17 SEM."]$["NC","PACIENTE SANA"]$["Tumor grave ","TUMOR MAMARIO"]$["Diagnóstico 1","DIAGNOSTICO1"]$
 
